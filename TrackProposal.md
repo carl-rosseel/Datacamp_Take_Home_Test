@@ -62,8 +62,7 @@ A dashboard is only as successful as the people using it
 The course will use aggregated transactional data of an online eCommerce platform, and throughout the course the user will learn how to create the main KPIs for business reporting.
 
 ### Course refinement:
-There is overlap between some of the courses above and already existing courses on Datacamp. 
-* Course 1 “Data Structure & Data Preparation” partially overlaps with “Connecting Data in Tableau” on Datacamp.
-* Course 5 “Dynamic Sets & Parameters to create the  ultimate dashboard” partially overlaps with “Creating Dashboards in Tableau”.
+There could be some overlap between Course 1 “Data Structure & Data Preparation” and the “Connecting Data in Tableau” course which is already available on Datacamp. This course (and the other courses to a lesser extent) should be treated with extra care to avoid duplication. 
 
-Also note in most Datacamp courses the final course is the most complicated one, but in this course it can still be decided how difficult the final course should be. The key message to transfer in this final chapter is to be open to feedback and adjust / enhance your dashboard on the needs of your stakeholders. In order to make this course a success a full deepdive of the content and comparison with existing content should be made, potentially resulting in a reshuffling of the content. 
+Also note in most Datacamp courses the final course is the most complicated one, but in this course it can still be decided how difficult the final course should be. The key message to transfer in this final chapter is to be open to feedback and adjust / enhance your dashboard based on the needs of your stakeholders. 
+
